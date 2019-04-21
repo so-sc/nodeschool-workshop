@@ -7,10 +7,10 @@ This repository contains a curated list of resources where you can advance your 
 ## Contents
 - [HTML and CSS](https://github.com/so-sc/nodeschool-workshop/blob/master/README.md#html-and-css)
 - [JavaScript](https://github.com/so-sc/nodeschool-workshop/blob/master/README.md#javascript)
-- Node.js
-- Advanced Node.js
-- React, Angular, Vue and More.
-- conference talks
+- [Node.js](https://github.com/so-sc/nodeschool-workshop/blob/master/README.md#nodejs)
+- [Advanced JavaScript](https://github.com/so-sc/nodeschool-workshop/blob/master/README.md#advanced-javascript)
+- [React, Angular, Vue and More.[(https://github.com/so-sc/nodeschool-workshop/blob/master/README.md#react-angular-vue-and-more)
+- [conference talks](https://github.com/so-sc/nodeschool-workshop/blob/master/README.md#conference-talks)
 ### Recommendations
 - [FreeCodeCamp Certifications](https://learn.freecodecamp.org/) 
 ## HTML and CSS
